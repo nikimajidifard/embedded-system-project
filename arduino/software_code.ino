@@ -17,8 +17,8 @@ int i = 0;
 
 ////////////
 // WiFi
-const char *ssid = "xxx"; // Enter your WiFi name
-const char *password = "xxxxxxxx";  // Enter WiFi password
+const char *ssid = "xxxxxxxxx"; // Enter your WiFi name
+const char *password = "xxxxxxx";  // Enter WiFi password
 bool checkwifi = false; 
 HardwareSerial mySoftwareSerial(1);
 DFRobotDFPlayerMini myDFPlayer;
